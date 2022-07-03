@@ -1,0 +1,416 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Clinic
+</name>
+</assembly>
+<members>
+<member name="T:Clinic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.accountupdtae">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.add_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.addaccount_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.admit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.admit_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.bar_code">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.bg_clinicsms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.dashboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.dashboard_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.delete_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.deleteaccount_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.dropdown_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.dropdown_outlined">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.edit_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.editaccount_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.nurse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.padlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.pencil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.profile_user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.reports">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.reports_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.search_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.settings_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.stock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.stock_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.stockrecord">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.students">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.students_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.students_active1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.trans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.trans_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.trash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.trash_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.ursgiantslogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.urslogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.user_account">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Clinic.My.Resources.Resources.user_account_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblactivitylogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcollegeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcourseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblmedicineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblstudentprofileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbltransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbluserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblactivitylogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcollegeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcourseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblmedicineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblstudentprofileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbltransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbluserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblactivitylogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcollegeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblcourseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblmedicineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tblstudentprofileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbltransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSet.tbluserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tblactivitylogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tblcollegeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tblcourseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tblmedicineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tblstudentprofileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tbltransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.tbluserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Clinic.clinicsmsdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Clinic.clinicsmsdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Clinic.clinicsmsdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.UpdateAll(Clinic.clinicsmsdbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Clinic.clinicsmsdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

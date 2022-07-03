@@ -1,0 +1,670 @@
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Guna.UI2.dll
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\sanch\source\repos\Clinic\Clinic\bin\Debug\Guna.UI.dll
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMAddmedicine.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMActivitylog.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMManageaccount.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\sanch\source\repos\Clinic\Clinic\obj\Debug\Clinic.FRMUser.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMAssistant.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMManageuseraccount.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMStockstrash.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMTransaction.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMAccounttrash.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMStudent.resources
+C:\Users\Albert\Downloads\Compressed\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrash.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMStockstrash.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMStudent.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrash.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMTransaction.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMAccounttrash.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMAssistant.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMManageuseraccount.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Google.Protobuf.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\MySql.Data.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Zstandard.Net.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\System.Buffers.dll
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\bin\Debug\MySql.Data.xml
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.exe.licenses
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMStudentDataGrid.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMMedicineDataGrid.resources
+C:\Users\Nehryyyyy\Desktop\Clinic\Clinic\obj\Debug\Clinic.FRMAddStock.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Zstandard.Net.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Memory.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\EnvDTE.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Buffers.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\stdole.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAddStock.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMMedicineDataGrid.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStockstrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudent.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudentDataGrid.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMTransaction.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAccounttrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAssistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMManageuseraccount.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.exe.licenses
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudentassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrashassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMReportsassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Zstandard.Net.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Memory.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Buffers.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAddStock.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMMedicineDataGrid.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStockstrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudent.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudentDataGrid.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMTransaction.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAccounttrash.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAssistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMReportsassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudentassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrashassistant.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMManageuseraccount.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.exe.licenses
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\RdlCompile.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\RdlCompile.compiled
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\EnvDTE.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\stdole.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Albert\Desktop\ETO LAST NA TO HMMMMM\FINAL_MISSING_REPORTS_Clinic\Clinic\Clinic\obj\Debug\Clinic.FRMSplashscreen.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Google.Protobuf.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\MySql.Data.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Zstandard.Net.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\System.Memory.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\EnvDTE.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\System.Buffers.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\stdole.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\MySql.Data.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMAddStock.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMMedicineDataGrid.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStockstrash.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStudent.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStudentDataGrid.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrash.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMTransaction.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMAccounttrash.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMAssistant.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMAdmin.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMAdmit.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMHome.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMReportsassistant.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStudentassistant.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStudenttrashassistant.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMLogin.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMManageuseraccount.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMReports.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMStocks.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMSystemsettings.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMSplashscreen.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.exe.licenses
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\RdlCompile.cache
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\RdlCompile.compiled
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.vbproj.CoreCompileInputs.cache
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.vbproj.CopyComplete
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.ActivityLogReport.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.AccountReport.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.TransactionReport.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.MedicineStockReport.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.StudentReport.resources
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.Video.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zxing.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zxing.presentation.dll
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.Video.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zxing.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\bin\Debug\zxing.presentation.xml
+C:\Users\Nehryyyyy\Desktop\FINAL\Clinic\Clinic\obj\Debug\Clinic.FRMScanBarCode.resources

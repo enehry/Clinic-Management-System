@@ -6,3 +6,5 @@ student who are requesting a medicine. The system was build using C#.net
 and WinForm, Bunifu UI and MYSQL database.
 
 ![Screenshot](https://github.com/enehry/Clinic-Management-System/blob/main/Screenshots/1.JPG)
+![Screenshot](https://github.com/enehry/Clinic-Management-System/blob/main/Screenshots/2.JPG)
+![Screenshot](https://github.com/enehry/Clinic-Management-System/blob/main/Screenshots/3.JPG)
